@@ -8,3 +8,7 @@ API desenvolvida durante o curso [React Avançado](https://reactavancado.com.br/
 - Strapi
 - Postgres
 - GraphQL
+
+
+## Link para o front-end:
+https://github.com/TakayukiKomatsu/react-avancado-landing-page/tree/graphql
