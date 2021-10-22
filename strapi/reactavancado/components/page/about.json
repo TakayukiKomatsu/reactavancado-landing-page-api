@@ -2,12 +2,13 @@
   "collectionName": "components_page_abouts",
   "info": {
     "name": "about",
-    "icon": "info"
+    "icon": "info",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "media": {
-      "collection": "file",
+      "model": "file",
       "via": "related",
       "allowedTypes": [
         "images",
